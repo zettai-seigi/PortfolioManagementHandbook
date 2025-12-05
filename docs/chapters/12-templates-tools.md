@@ -27,17 +27,19 @@ All templates described in this chapter are available for download as an Excel w
 
 **[Download IT Portfolio Management Templates (Excel)](../templates/IT_Portfolio_Management_Templates.xlsx)**
 
-The workbook includes:
-- Business Case Template
-- Alternatives Analysis
-- Benefits Register
-- Cost Estimation Worksheet
-- Risk Assessment Register
-- Scoring Worksheet
-- Portfolio Dashboard
-- Resource Planning
-- Implementation Timeline
-- Portfolio Register
+The workbook includes 13 comprehensive worksheets:
+- **Initiative Inventory** - Master list of all portfolio initiatives (500 row capacity)
+- **Business Case Template** - Complete investment proposal with financials, risks, and approvals
+- **Alternatives Analysis** - Structured comparison of solution options
+- **Scoring Worksheet** - Multi-dimensional prioritization (Business Value, Risk, Cost)
+- **Cost Estimation** - Capital and operating costs with 3-year TCO
+- **Risk Assessment** - Risk register with probability, impact, and mitigation
+- **Benefits Tracking** - Track projected vs realized benefits
+- **Portfolio Dashboard** - Executive dashboard with KPIs and composition
+- **Application Portfolio** - Application inventory with TIME model (500 row capacity)
+- **Resource Capacity** - Resource planning by role with utilization tracking
+- **Implementation Timeline** - Gantt-style timeline with phases and milestones
+- **Reference Data** - Scoring criteria, categories, and KPI definitions
 
 ---
 
