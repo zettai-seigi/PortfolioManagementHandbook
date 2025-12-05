@@ -21,6 +21,26 @@ After completing this chapter, you will be able to:
 
 ---
 
+## Download Templates
+
+All templates described in this chapter are available for download as an Excel workbook:
+
+**[Download IT Portfolio Management Templates (Excel)](../templates/IT_Portfolio_Management_Templates.xlsx)**
+
+The workbook includes:
+- Business Case Template
+- Alternatives Analysis
+- Benefits Register
+- Cost Estimation Worksheet
+- Risk Assessment Register
+- Scoring Worksheet
+- Portfolio Dashboard
+- Resource Planning
+- Implementation Timeline
+- Portfolio Register
+
+---
+
 ## Introduction: The Foundation of Consistent Portfolio Management
 
 In the complex landscape of IT portfolio management, templates and tools serve as the essential infrastructure that transforms theoretical frameworks into operational realities. While the concepts of portfolio governance, strategic alignment, and value optimization are intellectually sound, their practical application depends entirely on the quality, consistency, and usability of the instruments organizations deploy to implement them.

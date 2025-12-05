@@ -7,11 +7,6 @@ remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
 
-# Navigation
-nav_external_links:
-  - title: GitHub Repository
-    url: https://github.com/zettai-seigi/PortfolioManagementHandbook
-
 # Search
 search_enabled: true
 search:
